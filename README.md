@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-nadaf-602b572b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-nadaf-602b572b0/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-nadaf-602b572b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-nadaf-602b572b0/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sahil_abbas_nadaf786?igsh=agf6y2s0nzdnemdw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sahil_abbas_nadaf786?igsh=agf6y2s0nzdnemdwhttps://www.instagram.com/sahil_abbas_nadaf786?igsh=agf6y2s0nzdnemdw" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sahilabbasnadaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sahilabbasnadaf" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mr_sahil_nadaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mr_sahil_nadaf" height="30" width="40" /></a>
