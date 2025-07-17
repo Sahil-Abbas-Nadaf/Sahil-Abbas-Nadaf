@@ -1,4 +1,4 @@
-![logo](https://github.com/Sahil-Abbas-Nadaf/Sahil-Abbas-Nadaf/blob/main/Github%20Banner.png)
+![logo](https://github.com/Sahil-Abbas-Nadaf/Sahil-Abbas-Nadaf/blob/main/Git%20Hub%20Banner%202.png)
 <h1 align="center">Hi 👋, I'm Sahil Nadaf</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
